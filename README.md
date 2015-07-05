@@ -1,0 +1,2 @@
+# pythonhack
+me learning python
